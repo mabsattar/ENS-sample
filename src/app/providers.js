@@ -25,7 +25,7 @@ const { wallets } = getDefaultWallets();
 
 export const config = getDefaultConfig({
   appName: "ENS dapp",
-  projectId: "YOUR_PROJECT_ID",
+  projectId: "c7c97e80325b87d57d607b0f5cf72b34",
   // the above value needs to be replaced
   wallets: [
     ...wallets,
